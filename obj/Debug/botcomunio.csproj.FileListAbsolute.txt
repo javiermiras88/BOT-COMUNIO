@@ -1,0 +1,8 @@
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\bin\Debug\botcomunio.exe
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\bin\Debug\botcomunio.pdb
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\bin\Debug\WebDriver.dll
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\bin\Debug\WebDriver.xml
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\obj\Debug\botcomunio.csprojResolveAssemblyReference.cache
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\obj\Debug\botcomunio.csproj.CoreCompileInputs.cache
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\obj\Debug\botcomunio.exe
+C:\Users\ortiga\Documents\Visual Studio 2017\Projects\botcomunio\obj\Debug\botcomunio.pdb
